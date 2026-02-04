@@ -14,7 +14,6 @@ A tool to convert UI screenshots into working HTML/Tailwind or React code using 
 - **Node.js**: Version 18 or higher.
 - **Python**: Version 3.10 or higher.
 - **Ollama**: Must be installed and running locally.
-  - Recommended Model: `gemma3n:e4b` (or update `apps/backend/engine/generator.py` with your preferred model).
 
 ## Installation and Setup
 
