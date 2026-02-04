@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+websockets
+python-multipart
+numpy
+opencv-python-headless
+easyocr
+torch
+pillow
+requests
