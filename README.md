@@ -68,8 +68,7 @@ The frontend application will be available at `http://localhost:3000`.
 3. Open `http://localhost:3000` in your browser.
 4. Upload a screenshot of a user interface.
 5. Wait for the pipeline to process the image (Detection -> OCR -> Layout -> Code Generation).
-6. View the generated code and the live preview.
-7. Download the result.
+6. Download the result.
 
 ## Architecture
 
